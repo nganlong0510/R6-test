@@ -79,7 +79,7 @@ class ForecastCommand extends Command
             $data = json_decode($response->getBody(), true);
 
             $forecasts[] = [
-                'city' => $city,
+                'city' => $data['city_name'],
                 'dates_data' => $this->filterForecasts($data['data']),
             ];
         }

@@ -83,9 +83,7 @@ Additionally, a report needs to be prepared which can be automatically generated
 <!-- CONTACT -->
 ## Contact
 
-Long Ngan Nguyen - nganlong0510@gmail.com
-
-Project Link: [https://github.com/nganlong0510/laravel-project](https://github.com/nganlong0510/laravel-project)
+Long Ngan Nguyen - nganlong0510@gmail.com - 0450490510
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

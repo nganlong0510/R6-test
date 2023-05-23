@@ -78,14 +78,10 @@ Additionally, a report needs to be prepared which can be automatically generated
     > Enter cities (separated by space): Brisbane Gold_Coast Sunshine_Coast
     ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
 Long Ngan Nguyen - nganlong0510@gmail.com - 0450490510
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

@@ -1,16 +1,14 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Introduction
-A client has asked for an application capable of reporting 5 day weather forecasts.
-
-It will require a web UI with a dropdown to select from a list of cities which would then render the forecast.
-
-Additionally, a report needs to be prepared which can be automatically generated each day.
+A client has asked for an application capable of reporting 5 day weather forecasts. </br>
+It will require a web UI with a dropdown to select from a list of cities which would then render the forecast. </br>
+Additionally, a report needs to be prepared which can be automatically generated each day. </br>
  
  <p>Summary</br>
  This project use API from https://www.weatherbit.io/api to request data.
  
- 1. Web Application
+ #### 1. Web Application
  
  - Single Page, no authentication required
  
@@ -20,7 +18,7 @@ Additionally, a report needs to be prepared which can be automatically generated
  
  - If no city is selected, table display text "No city selected"
  
- 2. Console Command
+ #### 2. Console Command
  
  - List of cities must be separated by space. In another case, if city name is "New York", it should be changed to "New_York"
  
